@@ -10,3 +10,6 @@ TESTE ATGROUP
 ```bash
   npm install / yarn
 ```
+```bash
+  npm run dev / yarn dev
+```
